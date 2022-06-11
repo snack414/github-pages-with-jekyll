@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi I am Jacob and this is my first Website.  My snap chat is my name and I like playing soccer, watching hockey, and am the president of my USY chapter.
